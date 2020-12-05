@@ -150,5 +150,8 @@ __This is a share, the copyright belongs to the original author, if any infringe
 For more information about Akash, please use the following links to learn more.
 
 Official Website: https://akash.network/?lang=zh-hans
+
 Twitter: https://twitter.com/akashnet_
+
 Telegram: https://t.me/AkashNW
+
